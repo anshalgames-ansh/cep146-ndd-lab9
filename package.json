@@ -1,0 +1,13 @@
+{
+  "name": "cep146-ndd-lab9",
+  "version": "1.0.0",
+  "description": "Agentic AI lab using Replit",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
