@@ -1,0 +1,3 @@
+email=user@example.com
+cpu_threshold=80.0
+mem_threshold=80.0

@@ -5,6 +5,9 @@ yarn-debug.log*
 yarn-error.log*
 .env
 
+# C build output
+system_monitor
+
 # Prerequisites
 *.d
 
